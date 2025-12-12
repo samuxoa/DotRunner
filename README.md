@@ -115,7 +115,7 @@ Yes all,code is in code folder in that repo.simply run that final code on codebl
 
 - [@samuxoa](https://github.com/samuxoa)[Samia Rahman-2023831046]
 
-- [@Pranta-058](https://github.com/Pranta-058?tab=repositories)[Pranta Chowdhury-2023831056]
+- [@Pranta-058](https://github.com/Pranta-058?tab=repositories)[Pranta Chowdhury-2023831058]
 ## About Me
 Learning full stack development..Also interested in It and Robotics
 
