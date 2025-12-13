@@ -44,7 +44,7 @@ and the 4th step is scoring point ..if one can pass the food.
 
 [Game Time  Screenshot](https://github.com/samuxoa/DotRunner/tree/main/Screenshot)
 
-
+![Game Time Screenshot](Screenshot/FoodMake%28F%3Dfood%2Co%3Dhead%29.png)
 ## Contributing
 
 Contributions are always welcome!
