@@ -49,9 +49,6 @@ and the 4th step is scoring point ..if one can pass the food.
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 
 ## Running Tests
